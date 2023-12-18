@@ -1,10 +1,9 @@
 {
-  "name": "pure-js-observable",
+  "name": "@eneskpc/pure-js-observable",
   "version": "1.0.0",
   "repository": "https://github.com/eneskpc/pure-js-observable.git",
   "author": "Enes KAPUCU <mr.enes.kapucu@gmail.com>",
   "license": "MIT",
-  "private": "true",
   "scripts": {
     "build": "npx webpack --config webpack.config.js"
   },
