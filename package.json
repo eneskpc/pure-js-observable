@@ -4,6 +4,9 @@
   "repository": "https://github.com/eneskpc/pure-js-observable.git",
   "author": "Enes KAPUCU <mr.enes.kapucu@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "@eneskpc:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "build": "npx webpack --config webpack.config.js"
   },
